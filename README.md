@@ -5,7 +5,9 @@ This Repository Has A EFI That Uses Opencore 1.0 And Supports Sonoma, The Latest
 ![51Rf3zw4rIL _AC_SL1000___1_-removebg-preview](https://github.com/Envadors/Msi-Gf63-10scsr-Sonoma-Hackintosh-EFI/assets/91122426/c464e44d-02e7-4c8d-baf0-890be9126e7c)
 
 EFI Link: https://mega.nz/file/GugEgKIB#5-PMXh4OGy75J0TyXq-9s69kDM5lMJs8uryR_nJFRJc
+
 EFI Link For Ventura And Older Untill BigSur: https://github.com/Forte500/Hackintosh-msi-GF65-10UE
+
 Whats Working:
 Wifi,
  Bluetooth,
