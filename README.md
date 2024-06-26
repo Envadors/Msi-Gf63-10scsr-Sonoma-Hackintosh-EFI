@@ -2,7 +2,7 @@
 This Repository Has A EFI That Uses Opencore 1.0 And Supports Sonoma, The Latest And Greatest For MSI gf63 10scsr
 
 [![OpenCore](https://img.shields.io/badge/OpenCore-1.0.-blue.svg)](https://github.com/acidanthera/OpenCorePkg)
-[![macOSver](https://img.shields.io/badge/macOS-12.6.1-brightgreen.svg)](https://support.apple.com/HT213494)
+[![macOSver](https://img.shields.io/badge/macOS-14.4-brightgreen.svg)](https://support.apple.com/HT213494)
 
 ![51Rf3zw4rIL _AC_SL1000___1_-removebg-preview](https://github.com/Envadors/Msi-Gf63-10scsr-Sonoma-Hackintosh-EFI/assets/91122426/c464e44d-02e7-4c8d-baf0-890be9126e7c)
 
