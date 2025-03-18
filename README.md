@@ -76,13 +76,22 @@ Thank You And Enjoy Your Hackintosh EFI, I Hope Everything Goes Well! ❤️
 ## 🛠 UEFI - Bios Settings
 <details>
 <summary><strong>UEFI Custom Hackintosh Settingse</strong></summary>
-  <br>
- 
-- Show hidden settings with: CTRL Right + SHIFT Right + ALT Left + F2 
-- Turn off Secure Boot [Security] 
-- Turn off CFG Lock [Advanced -> Power & Performance -> CPU -> CPU Lock Configuration]
-- Disable Fast Boot [Boot]
-- Select UEFI mode without CSM [Boot]
+   <br>
+  
+**Firstly Unlock hidden BIOS Settings by pressing `right shift + right Ctrl + left alt + F2`**
+
+**Advanced TAB**
+- `Power & Performance > CPU-Power Management Control > Configure CPU Lock Options > CFG lock`: must be **Disabled**
+- `Intel Virtualization Technology` & `VT-d` both enabled
+- `System Agent (SA) Configuration > Graphics Configuration > DVMT Pre-Allocated`: must be **64M**
+- `USB Configuration > XHCI Hand-off`: must be **Enabled**
+- `Intel(R) Speed Shift Technology`: must be **Enabled**
+
+**Boot TAB**
+- `Fast Boot`: **Disabled**
+
+**Security TAB**
+- `Secure Boot > Secure Boot Support`: must be **Disabled**
 
 </details>
 
