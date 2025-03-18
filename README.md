@@ -53,7 +53,8 @@ This Repository Has A EFI That Uses Opencore 1.0 And Supports Sonoma, The Latest
 ### ⚠️ Known issues
 - Wireless sidecar may lag (tested with BCM94360NG & iPad 6 ios 15.1)
 
-⚠️ If Your Not Going To Use Icloud For Your Computer Which I Highly Suggest You Dont Use Icloud, because that results into you just putting the efi on the usb and adding the installer instead of spending 5 hours chainging the serial number. ⚠️
+⚠️ You do not need to modify the EFI to get it to run! However if you also want to get icloud running you will need to
+generate a simbios for it which I listed the steps in  the bottom⚠️
 
 ### 💻 My Hardware
 | Component       |  Brand/info                                                             |
