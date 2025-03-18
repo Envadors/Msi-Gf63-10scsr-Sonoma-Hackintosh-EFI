@@ -6,6 +6,13 @@ This Repository Has A EFI That Uses Opencore 1.0 And Supports Sonoma, The Latest
 
 ![51Rf3zw4rIL _AC_SL1000___1_-removebg-preview](https://github.com/Envadors/Msi-Gf63-10scsr-Sonoma-Hackintosh-EFI/assets/91122426/c464e44d-02e7-4c8d-baf0-890be9126e7c)
 
+----------------------------------------------------------------------------------------------------
+
+### ⚠️ Disclaimer:
+- I Recommend Learning The Basics Of Hackintosh So You Can Update It Or Trouble Shoot If Anything Goes Wrong
+- This EFI may not be constantly updated to the latest version of opencore especially if no major changes are made
+- Please read the whole readme before proceeding
+
 ------------------------------------------------------------------------------------------------------
 
 - [EFI For macOS Sonoma](https://mega.nz/file/GugEgKIB#5-PMXh4OGy75J0TyXq-9s69kDM5lMJs8uryR_nJFRJc)
