@@ -133,7 +133,7 @@ Thank You And Enjoy Your Hackintosh EFI, I Hope Everything Goes Well! ❤️
 <summary>Userful Apps</strong></summary>
   <br>
   
-- [Arc](arc.net) * The Best Browser
+- [Arc](https://arc.net) * The Best Browser
 - [OC Updater](https://github.com/mswgen/oc-updater/releases/tag/1.4.3) * A Opencore Updater That Can Update Your EFI With Just One Click If New Updates Are Found.
   
   </details>
